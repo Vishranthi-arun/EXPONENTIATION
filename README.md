@@ -27,7 +27,7 @@ exponentiation()
 
 ## Output:
 ![exponentiation of a number](expo.PNG)
-![OUTPUT](./Ex 06.PNG)
+![OUTPUT](Ex 06.PNG)
 
 ## Result:
 Thus the program to find the exponentiation of a given number is written and verified using python programming.
